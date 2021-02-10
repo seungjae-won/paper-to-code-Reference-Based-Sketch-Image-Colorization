@@ -1,7 +1,7 @@
 ## Reference Based Sketch Image Colorization using Augmented Self Reference and Dense Semantic Correspondence - paper to code
 
-
-
+## docs
+[docs](https://seung-jae.tistory.com/entry/%EB%85%BC%EB%AC%B8-%EA%B5%AC%ED%98%841-Reference-Based-Sketch-Image-Colorization)
 
 
 ### Code Reference
